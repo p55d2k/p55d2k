@@ -16,7 +16,7 @@ Wow, you found my Github profile! Welcome!
 
 I'm a Frontend Developer from Singapore. I'm currently working at [Xcidic](https://xcidic.com/) as a frontend intern. Feel free to contact me at [peanutandscuffy1@gmail.com](mailto:peanutandscuffy1@gmail.com).
 
-Mostly, I program with, [Typescript](https://www.typescriptlang.org/), [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [Python](https://www.python.org/).
+Mostly, I program with, [Typescript](https://www.typescriptlang.org/), [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Python](https://www.python.org/) and [C++](https://cplusplus.com/) for competitive programming.
 <br/>
 I've been working with [React](https://reactjs.org/), [React Native](https://reactnative.dev/), [NextJs](https://nextjs.org/), [Nodejs](https://nodejs.org/en/).
 <br/>
