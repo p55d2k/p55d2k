@@ -32,8 +32,6 @@ I'm currently learning [Material UI](https://mui.com/) and some game development
 <br/>
 <img src="https://media0.giphy.com/media/cNROH16WmAR5QAYQCY/giphy.gif?cid=790b76118d083ecca71fc84b8f6df0b39e46edfc667bbafe&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; Fluent in English and Chinese, currently learning Indonesian
 <br/>
-<img src="https://media0.giphy.com/media/r4xuzuHd0LDaqheDUW/giphy.gif?cid=ecf05e4712t82r6zjz56trapo40kzpj20tb0q71h7rtr2497&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; Ask me anything at [peanutandscuffy1@gmail.com](mailto:peanutandscuffy1@gmail.com)
-<br/>
 <img src="https://media2.giphy.com/media/c7b4k49vPvcTJfbrCK/giphy.gif?cid=ecf05e47cx982wvwnusnttvallfrhca4lowhxys5t615elzp&ep=v1_gifs_gifId&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; Outside of programming, I'm intereted in math, physics, classical music and [video editing](https://www.youtube.com/@p55d2k)
 
 <br/>
