@@ -14,7 +14,7 @@ Hi there, my name is Zhi Kai and I'm a Frontend Developer &nbsp; <img src="https
 
 Wow, you found my Github profile! Welcome!
 
-I'm a Frontend Developer from Singapore. I'm currently working at [Xcidic](https://xcidic.com/) as a frontend intern. Feel free to contact me at [peanutandscuffy1@gmail.com](mailto:peanutandscuffy1@gmail.com).
+I'm a Frontend Developer from Singapore. I'm a High School Student at [Hwa Chong Institution](https://www.hci.edu.sg/). Feel free to contact me at [peanutandscuffy1@gmail.com](mailto:peanutandscuffy1@gmail.com).
 
 Mostly, I program with, [Typescript](https://www.typescriptlang.org/), [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Python](https://www.python.org/) and [C++](https://cplusplus.com/) for competitive programming.
 <br/>
@@ -26,9 +26,9 @@ I'm currently learning [Material UI](https://mui.com/) and some game development
 
 **A little piece of myself:**
 
-<img src="https://media3.giphy.com/media/XfJIwjs18gFl2dqdkI/giphy.gif?cid=ecf05e47c1ei5oy0ts13e1g3ia001mae50j1s0ig0skz1try&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; Currently working at [Xcidic](https://xcidic.com/) as a frontend intern
+<img src="https://media3.giphy.com/media/XfJIwjs18gFl2dqdkI/giphy.gif?cid=ecf05e47c1ei5oy0ts13e1g3ia001mae50j1s0ig0skz1try&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; A High School Student at [Hwa Chong Institution](https://www.hci.edu.sg/)
 <br/>
-<img src="https://media4.giphy.com/media/55cVTSP1QhCgcrKVVW/giphy.gif?cid=790b7611a33cffb938a64cb87a4e26f8675031e0597f7382&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; I work on my personal project [zkflix-next](https://zkflix-next.vercel.app) in my free time
+<img src="https://media4.giphy.com/media/55cVTSP1QhCgcrKVVW/giphy.gif?cid=790b7611a33cffb938a64cb87a4e26f8675031e0597f7382&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; I work on my personal projects in my free time
 <br/>
 <img src="https://media0.giphy.com/media/cNROH16WmAR5QAYQCY/giphy.gif?cid=790b76118d083ecca71fc84b8f6df0b39e46edfc667bbafe&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; Fluent in English and Chinese, currently learning Indonesian
 <br/>
