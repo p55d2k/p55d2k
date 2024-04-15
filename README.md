@@ -14,7 +14,7 @@ Hi there, my name is Zhi Kai and I'm a Frontend Developer &nbsp; <img src="https
 
 Wow, you found my Github profile! Welcome!
 
-I'm a Frontend Developer from Singapore. I'm a High School Student at [Hwa Chong Institution](https://www.hci.edu.sg/). Feel free to contact me at [peanutandscuffy1@gmail.com](mailto:peanutandscuffy1@gmail.com).
+I'm a Frontend Developer from Singapore. I'm a High School Student at [Hwa Chong Institution](https://www.hci.edu.sg/). Feel free to contact me at [peanutandscuffy1@gmail.com](mailto:peanutandscuffy1@gmail.com), and check out my website at [zk.is-a.dev](https://zk.is-a.dev/)!
 
 Mostly, I program with, [Typescript](https://www.typescriptlang.org/), [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Python](https://www.python.org/) and [C++](https://cplusplus.com/) for competitive programming.
 <br/>
