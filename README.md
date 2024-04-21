@@ -22,7 +22,7 @@ I've been working with [React](https://reactjs.org/), [React Native](https://rea
 <br/>
 I'm currently learning [Material UI](https://mui.com/) and some game development in my free time, mainly with [Unity3D](https://unity.com/).
 
-**A little piece of myself:**
+**Some information about me:**
 
 <img src="https://media3.giphy.com/media/XfJIwjs18gFl2dqdkI/giphy.gif?cid=ecf05e47c1ei5oy0ts13e1g3ia001mae50j1s0ig0skz1try&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; A High School Student at [Hwa Chong Institution](https://www.hci.edu.sg/)
 <br/>
