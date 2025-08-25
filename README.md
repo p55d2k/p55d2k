@@ -8,8 +8,6 @@ Hi there, my name is Zhi Kai and I'm a Frontend Developer &nbsp; <img src="https
 ![visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fp55d2k%2Fp55d2k.json&style=flat&label=visitors&color=orange)
 [![last Updated](https://img.shields.io/github/last-commit/p55d2k/p55d2k/main?label=last%20updated&style=flat)](https://github.com/p55d2k/p55d2k/commits)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=p55d2k&theme=onedark&no-frame=true&row=1)
-
 ### Hi!
 
 Wow, you found my Github profile! Welcome!
