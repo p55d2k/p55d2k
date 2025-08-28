@@ -47,6 +47,7 @@ Tools & Platforms
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p55d2k&theme=dracula&layout=donut" height=160px alt="p55d2k's Programming Languages"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=p55d2k&show_icons=true&theme=dracula" height=160px alt="p55d2k's Github Stats">
 </p>
+<img src="https://streak-stats.demolab.com?user=p55d2k&theme=dark" alt="GitHub Streak" />
 
 <br/>
 
