@@ -6,7 +6,7 @@ Hi there, my name is Zhi Kai and I'm a Frontend Developer &nbsp; <img src="https
 
 ## 🎉 About me
 
-<img src="https://media3.giphy.com/media/XfJIwjs18gFl2dqdkI/giphy.gif?cid=ecf05e47c1ei5oy0ts13e1g3ia001mae50j1s0ig0skz1try&rid=giphy.gif&ct=s" width="20" height="20" />&nbsp;&nbsp; I'm a High School Student at [Hwa Chong Institution](https://www.hci.edu.sg/)
+<img src="https://media3.giphy.com/media/XfJIwjs18gFl2dqdkI/giphy.gif?cid=ecf05e47c1ei5oy0ts13e1g3ia001mae50j1s0ig0skz1try&rid=giphy.gif&ct=s" width="20" height="20" />&nbsp;&nbsp; I'm a High School Student at <a href="https://www.hci.edu.sg/" target="_blank">Hwa Chong Institution</a>
 <br/>
 <img src="https://media4.giphy.com/media/55cVTSP1QhCgcrKVVW/giphy.gif?cid=790b7611a33cffb938a64cb87a4e26f8675031e0597f7382&rid=giphy.gif&ct=s" width="20" height="20" />&nbsp;&nbsp; I work on my personal projects in my free time
 <br/>
@@ -14,7 +14,7 @@ Hi there, my name is Zhi Kai and I'm a Frontend Developer &nbsp; <img src="https
 <br/>
 <img src="https://media2.giphy.com/media/c7b4k49vPvcTJfbrCK/giphy.gif?cid=ecf05e47cx982wvwnusnttvallfrhca4lowhxys5t615elzp&ep=v1_gifs_gifId&rid=giphy.gif&ct=s" width="20" height="20" />&nbsp;&nbsp; Outside of programming, I'm interested in other various fields of STEM and music
 <br/>
-<img src="https://media2.giphy.com/media/sCwqNAHiOZHGuu2ptI/giphy.gif?cid=790b7611f1b3d753647428ee5d76770d869bfa8e29a0acfe&rid=giphy.gif&ct=s" width="20" height="20" />&nbsp;&nbsp; You can check out my website at [zk.is-a.dev](https://zk.is-a.dev/)!
+<img src="https://media2.giphy.com/media/sCwqNAHiOZHGuu2ptI/giphy.gif?cid=790b7611f1b3d753647428ee5d76770d869bfa8e29a0acfe&rid=giphy.gif&ct=s" width="20" height="20" />&nbsp;&nbsp; You can check out my website at <a href="https://zk.is-a.dev/" target="_blank">zk.is-a.dev</a>!
 <br/>
 
 ## 🚀 Tech Stack
