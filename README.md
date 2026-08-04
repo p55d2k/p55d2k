@@ -6,13 +6,13 @@ Hi there, my name is Zhi Kai and I'm a Frontend Developer &nbsp; <img src="https
 
 ## 🎉 About me
 
-<img src="https://media3.giphy.com/media/XfJIwjs18gFl2dqdkI/giphy.gif?cid=ecf05e47c1ei5oy0ts13e1g3ia001mae50j1s0ig0skz1try&rid=giphy.gif&ct=s" width="20" height="20" />&nbsp;&nbsp; I'm a High School Student at <a href="https://www.hci.edu.sg/" target="_blank">Hwa Chong Institution</a>
+<img src="https://media3.giphy.com/media/XfJIwjs18gFl2dqdkI/giphy.gif?cid=ecf05e47c1ei5oy0ts13e1g3ia001mae50j1s0ig0skz1try&rid=giphy.gif&ct=s" width="20" height="20" />&nbsp;&nbsp; I'm currently a Singaporean High School Student
 <br/>
 <img src="https://media4.giphy.com/media/55cVTSP1QhCgcrKVVW/giphy.gif?cid=790b7611a33cffb938a64cb87a4e26f8675031e0597f7382&rid=giphy.gif&ct=s" width="20" height="20" />&nbsp;&nbsp; I work on my personal projects in my free time
 <br/>
-<img src="https://media0.giphy.com/media/cNROH16WmAR5QAYQCY/giphy.gif?cid=790b76118d083ecca71fc84b8f6df0b39e46edfc667bbafe&rid=giphy.gif&ct=s" width="20" height="20" />&nbsp;&nbsp; Fluent in English and Chinese, currently learning Indonesian
+<img src="https://media0.giphy.com/media/cNROH16WmAR5QAYQCY/giphy.gif?cid=790b76118d083ecca71fc84b8f6df0b39e46edfc667bbafe&rid=giphy.gif&ct=s" width="20" height="20" />&nbsp;&nbsp; Fluent in English and Chinese and interested in STEM
 <br/>
-<img src="https://media2.giphy.com/media/c7b4k49vPvcTJfbrCK/giphy.gif?cid=ecf05e47cx982wvwnusnttvallfrhca4lowhxys5t615elzp&ep=v1_gifs_gifId&rid=giphy.gif&ct=s" width="20" height="20" />&nbsp;&nbsp; Outside of programming, I'm interested in other various fields of STEM and music
+<img src="https://media2.giphy.com/media/c7b4k49vPvcTJfbrCK/giphy.gif?cid=ecf05e47cx982wvwnusnttvallfrhca4lowhxys5t615elzp&ep=v1_gifs_gifId&rid=giphy.gif&ct=s" width="20" height="20" />&nbsp;&nbsp; I'm also an amateur triathlete
 <br/>
 <img src="https://media2.giphy.com/media/sCwqNAHiOZHGuu2ptI/giphy.gif?cid=790b7611f1b3d753647428ee5d76770d869bfa8e29a0acfe&rid=giphy.gif&ct=s" width="20" height="20" />&nbsp;&nbsp; You can check out my website at <a href="https://zk.is-a.dev/" target="_blank">zk.is-a.dev</a>!
 <br/>
@@ -43,10 +43,6 @@ Tools & Platforms
 
 ## 📈 GitHub Stats
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p55d2k&theme=dracula&layout=donut&hide=shaderlab,hlsl,html" height=160px alt="p55d2k's Programming Languages"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=p55d2k&show_icons=true&theme=dracula" height=160px alt="p55d2k's Github Stats">
-</p>
 <img src="https://streak-stats.demolab.com?user=p55d2k&theme=dark" alt="GitHub Streak" />
 
 <br/>
