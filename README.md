@@ -1,7 +1,7 @@
 Hi there, my name is Zhi Kai and I'm a Frontend Developer &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20">
 
 [![Instagram Badge](https://img.shields.io/badge/-zhi.kai_-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/zhi.kai_)
-[![Gmail Badge](https://img.shields.io/badge/-peanutandscuffy1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:peanutandscuffy1@gmail.com)](mailto:peanutandscuffy1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-wanzhikai10@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wanzhikai10@gmail.com)](mailto:wanzhikai10@gmail.com)
 [![Last Updated](https://img.shields.io/github/last-commit/p55d2k/p55d2k/main?label=last%20updated&style=flat)](https://github.com/p55d2k/p55d2k/commits)
 
 ## 🎉 About me
