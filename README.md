@@ -45,7 +45,7 @@ Tools & Platforms
 ## 📈 GitHub Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=p55d2k&rank_icon=github&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=p55d2k&rank_icon=github&show_icons=true&include_all_commits=true&theme=codeSTACKr)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=p55d2k&layout=compact&langs_count=6&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api/top-langs?username=p55d2k&layout=compact&langs_count=6&theme=codeSTACKr)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=p55d2k&layout=compact&langs_count=8&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api/top-langs?username=p55d2k&layout=compact&langs_count=8&theme=codeSTACKr)
 
 <br/>
 
