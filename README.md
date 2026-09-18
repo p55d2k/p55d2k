@@ -1,4 +1,5 @@
-Hi there, my name is Zhi Kai and I'm a Frontend Developer &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20">
+Hi there, my name is Zhi Kai and I'm a Frontend Developer &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20"><br/>
+If you found me here because you were interested in my projects - feel free to drop me a follow!
 
 [![Instagram Badge](https://img.shields.io/badge/-zhi.kai_-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/zhi.kai_)
 [![Gmail Badge](https://img.shields.io/badge/-wanzhikai10@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wanzhikai10@gmail.com)](mailto:wanzhikai10@gmail.com)
